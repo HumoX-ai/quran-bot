@@ -285,6 +285,7 @@ bot.callbackQuery("about", async (ctx) => {
       "• Манба: Муҳаммад Содиқ тафсири\n" +
       "• API: fawazahmed0/quran-api\n" +
       "• Версия: 1.0\n\n" +
+      "• мурожаат учун: @HumoX\n" +
       '_Ботдан фойдаланиш учун "Сура танлаш" тугмасини босинг._',
     {
       parse_mode: "Markdown",
