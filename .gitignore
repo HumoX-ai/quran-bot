@@ -1,0 +1,35 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore build files
+build/
+dist/
+
+# Ignore coverage files
+coverage/
+
+# Ignore environment files
+.env
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore package files
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
